@@ -12,8 +12,3 @@ leanrning
 - multimedia process
 - kv database
 - machine learning
-
-working experience
-
-- bilibili strategy engineer: 3 years
-- alibaba backend engineer: 5 years
